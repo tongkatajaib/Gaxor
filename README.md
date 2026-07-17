@@ -1,7 +1,7 @@
 # GaXOR
 ## Educational Secure Peer-To-Peer File Sharing with XOR & RSA Encryption
 
-### RKS 2024 | PBL-202
+### RKS 2024
 
 - Bintang Fajar Ahza Trawijaya	(4332401031)
 - Virrel Juliansyah			    (4332401021)
